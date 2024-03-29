@@ -1,2 +1,2 @@
 # square-to-circle
-Ejercicio de semana 3 día 4
+Ejercicio de cuadrado a círculo, semana 3 día 4
